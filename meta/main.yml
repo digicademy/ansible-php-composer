@@ -14,6 +14,6 @@ galaxy_info:
     - php
     - composer
 
-dependencies: []
+dependencies:
   - src: git+https://github.com/digicademy/ansible-php-fpm.git
     name: php-fpm
