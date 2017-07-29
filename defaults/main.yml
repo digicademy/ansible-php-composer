@@ -1,0 +1,6 @@
+---
+php_composer_installer_url: "https://getcomposer.org/installer"
+
+php_composer_install_dir: "/usr/local/bin"
+
+php_composer_filename: "composer"
